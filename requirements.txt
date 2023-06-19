@@ -1,3 +1,5 @@
+# requirements.txt - файл с зависимостями проекта
+
 # async-generator==.env.test.10
 # attrs==22..env.test.0
 # backports.functools-lru-cache==.env.test.6.4

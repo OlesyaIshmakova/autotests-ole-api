@@ -6,3 +6,5 @@ venv
 connection_config.ini
 .cache
 logging.conf
+
+#.gitignore - файл хранит с список файлов которые не нужно заливать в git

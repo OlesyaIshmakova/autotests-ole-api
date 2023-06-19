@@ -1,3 +1,5 @@
+# config.py - файл инициализации переменных из .env.<zone>
+
 import pytest
 import testit
 from hamcrest import assert_that, contains_string, equal_to
